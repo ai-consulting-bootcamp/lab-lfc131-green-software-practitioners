@@ -1,23 +1,17 @@
-# Badge hunt: official green vocabulary
+# Badge Hunt: Green Software Practitioner
 
-**Track:** Module 7 — Green tech · **When:** Week 8, Day 1 · **Status:** Optional / Extra
+I completed the **Green Software Practitioner** course on Movement for this optional lab. I use the course concepts to explain how I’d assess the Northstar Home support assistant.
 
-This repository contains everything you need for this lab.
+Start with [lab proof](lab_proof.md).
 
-## Files
+| File | What it proves |
+| --- | --- |
+| [lab_proof.md](lab_proof.md) | How I took the course, passed the quiz, and would apply what I learned. |
+| [course_access_evidence.md](course_access_evidence.md) | What I saw in the public preview and how to verify I completed the course. |
+| [Certificate of completion](1201b3f0-51d2-4f93-bcf4-6a5aabce83e4.pdf) | The issuer’s PDF with my name, the course title, and the issue date. |
+| [instructions.md](instructions.md) | Original lab brief with the older Linux Foundation LFC131 portal link. |
+| [rubric.md](rubric.md) | Original grading criteria. |
 
-- [`instructions.md`](./instructions.md) — the lab instructions
-- [`rubric.md`](./rubric.md) — how your submission is graded; this is what the AI reviewer checks your PR against
+**Course status:** Completed. The Green Software Foundation issued my [Green Software Practitioner credential](https://badges.greensoftware.foundation/awards/1201b3f0-51d2-4f93-bcf4-6a5aabce83e4) on 25 November 2026.
 
-## How to complete this lab
-
-1. **Fork** this repository.
-2. Do the work described in `instructions.md`, committing to your fork.
-3. Open a **pull request** back into this repository.
-4. You'll receive **AI feedback** on your PR based on `rubric.md`. Address any blocking feedback and push updates to the same PR.
-
-## Submission hygiene
-
-- Keep this repository scoped to this lab only — no unrelated projects or personal files.
-- Use clear, descriptive filenames.
-- Remove secrets, API keys, and tokens before committing.
+**Required Green Tech Assessment:** Completed separately as [Northstar Home support assistant, Path A](https://github.com/s-rostovskyi/lab-green-tech-assessment).
